@@ -10,3 +10,5 @@ To run the project use command,
 ### `npm start`
 
 
+![1](https://user-images.githubusercontent.com/104862030/196772218-df2d6e02-fe9e-4bf3-bba5-916b6f80eeff.PNG)
+![2](https://user-images.githubusercontent.com/104862030/196772257-77b0928d-047c-42da-866f-621c949bd614.PNG)
